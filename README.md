@@ -55,5 +55,4 @@ write additional articles to fill more space.
 * Currently the article list is pulling from a local JS file instead of the MongoDB server, I would like to implement
 a GET request that pulls down a complete list of document names from the articles colleciton. 
 ## Sources
-This project is partially based on the project built with the online course "React: Creating and Hosting a Full-Stack Site" by 
-Shaun Wassell on Linkedin Learning/Lynda.com. This course can be found at: https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site
+This project is partially based on the project built with the online course "React: Creating and Hosting a Full-Stack Site" on Linkedin Learning/Lynda.com. This course can be found at: https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site
